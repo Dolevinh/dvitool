@@ -80,7 +80,7 @@ def banner():
 
 [1;97mTool By: [1;32mLê Vĩnh💎                    [1;97mPhiên Bản: [1;32mVIP👑     
 [1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[1;32m[•] TOOL TDS TIKTOK 100% VIP 👑
+[1;32m[•] TOOL TDS INSTAGRAM 100% VIP 👑
 [1;36m[•] SDT: 0869554319 👀
 [1;33m[•] ADMIN: Le Vinh💤
 [1;31m[•] TIKTOK: 👉 @serenawennn 👈
@@ -638,4 +638,5 @@ def job():
                     print(f'Please wait after {i} ••••    ', end='\r')
                     sleep(0.25)
                     print('                                                  ', end='\r')
+
 job()
